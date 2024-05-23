@@ -1,7 +1,7 @@
 **IP CAMERA TO OCR**
-Note: Make Sure to Install These libraries by running the commands in the brackets in your terminal (Command Prompt for Windows)
-            .  cv2 (pip install opencv-python)
-            .  pytesseract(pip install pytesseract)
+
+Note: Make Sure to Install These libraries by running this commands `pip install -r requirements.txt`
+            
 How to setup: 
 1: Make sure the Camera is Connected to the internet
 2: Connect Your computer to a network in order to be able to access the camera 
